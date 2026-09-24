@@ -1,0 +1,17 @@
+shipment SH1001
+  weight 12.5 lb
+  dims 10x8x6 in
+  service ground
+end
+
+shipment SH1002
+  weight 2 kg
+  dims 40x30x20 cm
+  service express
+end
+
+shipment SH1003
+  weight 1 lb
+  dims 20x20x20 in
+  service ground
+end
